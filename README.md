@@ -12,14 +12,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Microsoft Azure (Resources Group, Virtual Machines/Computer, Virtual Machines/Window Server, Virtual Network and Subnet)
 - Remote Desktop
-- Powershell
+- Active Directory Users and Computers (ADUC)
+- Server manager
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (Pro, version 22H2 - x64 Gen2)
 - Windows Server 2022 Datacenter: (Azure Edition - x64 Gen2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Deploying Active Directory Steps</h2>
 
 - Step 1: Installing Acfive Directory and Promoting the Domain Controller
 - Step 2: Creating a Domain Admin User
