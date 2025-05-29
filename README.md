@@ -1,7 +1,7 @@
 ![1035255](https://github.com/user-attachments/assets/7cdae74a-7836-4365-af4e-737124531edf)
 
 # Deploying Active Directory
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This guide outlines the process of setting up Active Directory on the Domain Controller, creating a domain admin user for administrative tasks, and joining Client-1 to the domain. It also covers configuring Remote Desktop access for a non-admin user on Client-1. As part of this setup, we will enable 10,000 user accounts, allowing them to log in to Client-1 through Remote Desktop Protocol (RDP).<br />
 
 
 <h2>Video Demonstration</h2>
