@@ -6,7 +6,7 @@ This guide outlines the process of setting up Active Directory on the Domain Con
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [Google Drive: Deploying Active Directory](https://drive.google.com/file/d/1mXesRWpn45NtI5WG7xIARDfTxjViDRPj/view?usp=drive_link)
 
 <h2>Environments and Technologies Used</h2>
 
